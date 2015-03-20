@@ -10,6 +10,3 @@ $person = "seeto.no/gem/servlet/getGemObject?id=$x\n";
 file_put_contents($file, $person, FILE_APPEND | LOCK_EX);
 } 
 ?>
-<?php
-
-?>
